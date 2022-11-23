@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/qbotipvesble/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "b9479783-9914-0000-f73d-0b44b1644d4c",
+    "name": "Mobile Testing_Doqument AI",
+    "key": "MTDAI"
+  }
+}
